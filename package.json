@@ -1,7 +1,7 @@
 {
   "name": "@webrcade/webrcade",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "http://.",
   "private": true,
   "dependencies": {
     "@iconify/icons-mdi": "^1.0.90",
@@ -37,5 +37,9 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "description": "[![Actions Status](https://github.com/webrcade/webrcade/workflows/Build/badge.svg)](https://github.com/webrcade/webrcade/actions) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Docker Build Status](https://img.shields.io/docker/cloud/build/webrcade/webrcade.svg)](https://hub.docker.com/r/webrcade/webrcade/)",
+  "main": "copy-default-feed.js",
+  "author": "",
+  "license": "ISC"
 }
